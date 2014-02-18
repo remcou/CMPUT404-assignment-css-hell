@@ -1,0 +1,54 @@
+html { 
+background: #FDFDF0;
+}
+
+body { 
+text-align: center; 
+font-size: 1em;
+
+padding-left: 15%;
+padding-right: 15%;
+}
+
+h2 {
+text-align: left; 
+}
+
+img {
+display:inline-block;
+
+}
+
+div.figure.floatLeft {
+float: left;
+margin: 10px 10px 10px 0;
+}
+
+div.figure.floatRight {
+float: right;
+margin: 10px 10px 10px 0;
+}
+
+p {
+font-size: 1.25em;
+line-height: 2em;
+margin: 1.25em 0;
+text-align: left;
+text-indent: 2em;
+font-family: "Calisto MT"
+}
+
+.titlePage {
+border: #DDDDDD 2px solid;
+margin: 3em 0% 7em 0%;
+padding: 5em 10% 6em 10%;
+}
+
+a {
+color: black;
+}
+
+.footnotes p {
+line-height: 1.25em;
+margin: 0.75em
+}
