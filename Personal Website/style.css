@@ -1,0 +1,63 @@
+/* 
+Copyright 2014 Remco Uitenbogerd
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+.leftbar {
+	position: fixed;
+	float: left;
+	/* background: lightblue; */
+	background: linear-gradient(to right, rgba(120,132,158,1) 0%,rgba(107,168,229,1) 100%); /* W3C */
+	width: 25%;
+	height: 100%;
+}
+
+.topbar {
+	background: linear-gradient(to right, rgba(107,168,229,1) 0%, rgba(162,218,245,1) 83%,rgba(189,243,253,1) 100%);
+
+	position: fixed;
+	float: top;
+	margin-left: 25%;
+	width: 75%;
+	height: 20%;
+}
+
+.mainsection {
+	position: absolute;
+	left: 25%;
+	top: 20%;
+	margin: 10px 10px 10px 10px;
+}
+
+#technical {
+	padding: 10px 10px 10px 10px;
+}
+
+.toptitle {
+	position: absolute;
+    bottom: 0px;
+    margin-left: 15px;
+    line-height: 0.0em;
+}
+
+img {
+	margin-top: 10%;
+	margin-left: 25%;
+	width: 50%;
+    height: 25%;
+}
+
+#description {
+	margin: 50px 10px 10px 10px;
+}
