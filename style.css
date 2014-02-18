@@ -1,0 +1,127 @@
+html { 
+background: #FDFDF0;
+
+}
+
+body { 
+text-align: center; 
+font-size: 1em;
+
+padding-left: 15%;
+padding-right: 15%;
+}
+
+h2 {
+text-align: center; 
+}
+
+img {
+display:inline-block;
+
+}
+
+div.figure.floatLeft, div.figleft {
+float: left;
+margin: 10px 10px 10px 0px;
+}
+
+div.figure.floatRight, div.figright {
+float: right;
+margin: 10px 0px 10px 10px;
+}
+
+div.figcenter {
+float: center;
+margin: auto;
+}
+
+div.titelverso {
+	text-align: center;
+}
+
+p {
+font-size: 1.25em;
+line-height: 2em;
+margin: 1.25em 0;
+text-align: left;
+text-indent: 2em;
+font-family: "Calisto MT";
+margin: 10px 10px 10px 10px;
+}
+
+table {
+	margin: auto;
+}
+
+p.titeltekst {
+	text-align: center;
+}
+
+.titlePage {
+border: #DDDDDD 2px solid;
+margin: 3em 0% 7em 0%;
+padding: 5em 10% 6em 10%;
+}
+
+a {
+color: black;
+}
+
+.footnotes p {
+line-height: 1.25em;
+margin: 0.75em
+}
+
+.pageno {
+visibility: hidden;
+text-align: right;
+color: #888888;
+text-indent: 0em;
+font-style: normal;
+font-weight: normal;
+font-variant: normal;
+font-size: 10px;
+}
+
+.TNbox {
+margin: 5% 15% 5% 15%;
+border: 1px solid;
+padding: 1em;
+background-color: #dddddd;
+font-family: sans-serif;
+font-size: 90%;
+}
+
+div.mynote {
+margin: 1em 5%;
+padding: .5em 1em 1em;
+}
+
+.mynote {
+background-color: #DDE;
+color: #000;
+font-family: sans-serif;
+font-size: 90%;
+}
+
+div.titlepage, div.maintext {
+margin-top: 4em;
+margin-bottom: 4em;
+margin-right: 12.5%;
+}
+
+span.larger {
+font-size: 120%;
+}
+
+span.largest {
+font-size: 150%;
+}
+
+span.giant {
+font-size: 300%;
+}
+
+p.center {
+text-align: center;
+}
