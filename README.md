@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Modifcations to Gutenberg stories
+=================
 
+* Gave it an off white background
+* Changed the font of the story to Calisto MT
+* Made the text bigger
+* More space between the text
+* Added margins to the left and right side
+* Changed the color of links to black so it looks more like a book and they don't intrude
